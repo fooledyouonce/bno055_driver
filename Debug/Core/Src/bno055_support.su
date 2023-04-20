@@ -1,0 +1,5 @@
+../Core/Src/bno055_support.c:120:5:bno055_data_readout_template	456	static
+../Core/Src/bno055_support.c:565:4:I2C_routine	4	static
+../Core/Src/bno055_support.c:597:4:BNO055_I2C_bus_write	40	static
+../Core/Src/bno055_support.c:641:4:BNO055_I2C_bus_read	40	static
+../Core/Src/bno055_support.c:664:6:BNO055_delay_msek	16	static
